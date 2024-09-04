@@ -1,7 +1,9 @@
+import { Profile } from "@/components/ui/Profile";
+
 export default function Page() {
   return (
     <>
-      <div>Datos del usuario</div>
+      <Profile></Profile>
     </>
   );
 }
